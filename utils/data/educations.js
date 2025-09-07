@@ -3,7 +3,7 @@ export const educations = [
     id: 1,
     title: "Bachelor Degree",
     duration: "2022 - Present",
-    institution: "Aditya Engineering College Surampalem",
+    institution: "Aditya Engineering College , Surampalem",
   },
   {
     id: 2,
@@ -17,4 +17,5 @@ export const educations = [
     duration: "2010 - 2020",
     institution: "Saraswathi Vidya Nikethan School Rajahmundry",
   }
+
 ]
